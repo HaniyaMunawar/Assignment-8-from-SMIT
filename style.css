@@ -1,0 +1,97 @@
+/* Assignmeni 08 */
+/* Header */
+/* Heading */
+.body1{
+    background-color: #fdf5e6;
+}
+
+.heading1>h1{
+    background-color: #7da7af;
+    color: white;
+    height: 60px;
+    line-height: 2em;
+}
+
+/* Content */
+/* About */
+.content>p{
+    background-color: #f1f0f0;
+    width: 70%;
+    height: 50px;
+    align-items: start;
+    line-height: 3.4em;
+    text-align: left;
+    padding: 10px;
+}
+
+/* Recipe */
+/* Ingredients */
+.ingredients>h2,ul{
+    background-color: #f1f0f0;
+    width: 70%;
+    text-align: left;
+    height: 140px;
+}
+
+.ingredients>ul>h2{
+    color: purple;
+    padding: 10px;
+}
+
+/* Instructions */
+.instructions>h2,ol{
+    background-color: #f1f0f0;
+    width: 70%;
+    text-align: left;
+    height: 140px;
+}
+
+.instructions>ol>h2{
+    color: purple;
+    padding: 10px;
+}
+
+/* Footer */
+/* Copyright */
+.copyright>p{
+    background-color: #7da7af;
+    color: white;
+    height: 60px;
+    line-height: 3.5em;
+}
+
+/* Assignmeni 08 part 01 */
+/* Header */
+/* Intro */
+.intro{
+    background-color: #f1f0f0;
+}
+
+.intro>.img1>img{
+    width: 70px;
+    padding: 10px;
+}
+
+.intro>.hobby>p{
+    padding: 5px;
+}
+
+/* Content */
+/* About Me */
+.aboutme{
+    background-color: #e2e2e2;
+    padding: 10px;
+}
+
+/* My Work */
+.mywork{
+    background-color: #e2e2e2;
+    padding: 10px;
+}
+
+/* Footer */
+/* Email */
+.email{
+    background-color: #f1f0f0;
+    padding: 15px;
+}
